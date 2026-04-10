@@ -1,0 +1,8 @@
+# ignore everything
+*
+
+# but do NOT ignore the .gitignore file itself
+!.gitignore
+
+# unignore your notebook
+!Modelling.ipynb
